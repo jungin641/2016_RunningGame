@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 9740b40d401d0aa42ac93be68464f0c0
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Character: {instanceID: 0}
+  - Salmon: {fileID: 100006, guid: 856db6ad4583cd74d9da505dc38f5419, type: 2}
+  - cat: {fileID: 100002, guid: 9ee363377b1ec0d408cdff144c375385, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
